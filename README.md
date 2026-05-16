@@ -4,7 +4,19 @@
 2nd Year Engineering Student passionate about Full-Stack Development, Backend Engineering, and solving real-world problems through technology.
 
 ## 🛠️ Tech Skills
-HTML • CSS • JavaScript • React.js • Node.js • Express.js • MongoDB • Firebase • JWT • REST API • Java • DSA • Git & GitHub
+• HTML 
+• CSS 
+• JavaScript 
+• React.js 
+• Node.js
+• Express.js 
+• MongoDB 
+• Firebase 
+• JWT 
+• REST API 
+• Java 
+• DSA 
+• Git & GitHub
 
 
 📫 Reach Me

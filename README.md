@@ -3,22 +3,6 @@
 
 2nd Year Engineering Student passionate about Full-Stack Development, Backend Engineering, and solving real-world problems through technology.
 
-## 🛠️ Tech Skills
-• HTML 
-• CSS 
-• JavaScript 
-• React.js 
-• Node.js
-• Express.js 
-• MongoDB 
-• Firebase 
-• JWT 
-• REST API 
-• Java 
-• DSA 
-• Git & GitHub
-
-
 📫 Reach Me
 - Email: mahatvaagarwal15@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mahatva-agarwal-422262349/

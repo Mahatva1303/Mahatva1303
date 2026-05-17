@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Mahatva</h1>
 
 
-2nd Year Engineering Student passionate about Full-Stack Development, Backend Engineering, and solving real-world problems through technology.
+2nd Year Engineering Student passionate about Full-Stack Development, Backend Engineering, and solving real-world problems through technology (Java developer).
 
 📫 Reach Me
 - Email: mahatvaagarwal15@gmail.com
